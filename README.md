@@ -14,5 +14,5 @@ Misskeyに関するご意見や不具合の報告を、
 ## シェアボタンの設置法
 設置したい箇所に以下のコードを挿入してください。
 ```html
-<button class="misskey-share"><script src="//share.misskey.xyz/script.js"></script></button>
+<button class="misskey-share"><script src="//share.misskey.xyz/script.js" async></script></button>
 ```
