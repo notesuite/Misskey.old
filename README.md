@@ -11,8 +11,5 @@ Misskeyに関するご意見や不具合の報告を、
 ### 古いリポジトリ
 * [syuilo/Misskey](https://github.com/syuilo/Misskey) - 旧Misskey。メンテナンスされていません。
 
-## シェアボタンの設置法
-設置したい箇所に以下のコードを挿入してください。
-```html
-<button class="misskey-share"><script src="https://share.misskey.xyz/script.js" async></script></button>
-```
+## FAQ
+[FAQ](FAQ.md)
