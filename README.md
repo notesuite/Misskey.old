@@ -1,7 +1,7 @@
 # This repository is no longer maintained.
-Move to
-https://github.com/syuilo/misskey-core
-https://github.com/syuilo/misskey-file
+Move to  
+https://github.com/syuilo/misskey-core  
+https://github.com/syuilo/misskey-file  
 https://github.com/syuilo/misskey-web
 
 # Misskey
