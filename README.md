@@ -15,7 +15,7 @@ Misskeyに関するご意見や不具合の報告を、
 * [MissKernel/Misskey-Web](https://github.com/MissKernel/Misskey-Web) - misskey.xyzを提供しているプログラム
 
 ### 古いリポジトリ
-* [syuilo/Misskey](https://github.com/syuilo/Misskey) - 旧Misskey。メンテナンスされていません。
+* [syuilo/Misskey](https://github.com/syuilo/Misskey.old) - 旧Misskey。メンテナンスされていません。
 
 ## FAQ
 [FAQ](FAQ.md)
